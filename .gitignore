@@ -7,6 +7,4 @@ pyvenv.cfg
 inputs/
 outputs/
 .DS_Store
-notebooks/.ipynb_checkpoints/
-notebooks/.ipynb_checkpoints
 *.csv
